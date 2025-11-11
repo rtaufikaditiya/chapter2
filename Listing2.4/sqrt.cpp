@@ -13,5 +13,7 @@ int main() {
     cout << "Thats the equivalent of a square " << side
     << "feat to the side." << endl;
     cout << "How fascinating!" << endl;
+
+    cout << "Rahmat  Taufik Aditiya 255440006";
     return 0;
 }
